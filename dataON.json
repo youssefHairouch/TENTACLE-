@@ -4,7 +4,7 @@
 
     "AdsController": [
       {
-        "NetworkAds": "facebook",
+        "NetworkAds": "admob",
         "AdMobId": "pub-9538560537207481",
 
         "BannerAdmob": "ca-app-pub-9538560537207481/1387807863",
@@ -20,16 +20,16 @@
 
     "items": [
       {
-        "title": "HAPPYMOD: Intro",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/1-HAPPY/main/1.png"
+        "title": "tentacle locker: Intro",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/TANT-1/main/1.png"
       },
       {
-        "title": "BEST TWEAK APPS",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/2-HAPPY/main/2.png"
+        "title": "GAME LOCKER APPS",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/TANT-2/main/2.png"
       },
       {
-        "title": "download apps now ",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/3-HAPPY/main/3.png"
+        "title": "download TENTACLE now ",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/TANT-3/main/5.png"
       },
       {
         "title": "HAPPYMOD",
